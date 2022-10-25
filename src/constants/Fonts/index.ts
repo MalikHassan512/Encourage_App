@@ -1,0 +1,22 @@
+export default {
+  Raleway: {
+    Black: 'Raleway-Black',
+    blackItalic: 'Raleway-BlackItalic',
+    Bold: 'Raleway-Bold',
+    BoldItalic: 'Raleway-BoldItalic',
+    ExtraBold: 'Raleway-ExtraBold',
+    ExtraBoldItalic: 'Raleway-ExtraBoldItalic',
+    ExtraLight: 'Raleway-ExtraLight',
+    ExtraLightItalic: 'Raleway-ExtraLightItalic',
+    Italic: 'Raleway-Italic',
+    Light: 'Raleway-Light',
+    LightItalic: 'Raleway-LightItalic',
+    Medium: 'Raleway-Medium',
+    MediumItalic: 'Raleway-MediumItalic',
+    Regular: 'Raleway-Regular',
+    SemiBold: 'Raleway-SemiBold',
+    SemiBoldItalic: 'Raleway-SemiBoldItalic',
+    Thin: 'Raleway-Thin',
+    ThinItalic: 'Raleway-ThinItalic',
+  },
+};
